@@ -1,3 +1,4 @@
+# коментар до лабораторної
 def kth_largest(numbers, k):
     if k < 1 or k > len(numbers):
         return -1
